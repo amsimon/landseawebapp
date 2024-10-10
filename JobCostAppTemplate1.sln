@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobCostAppTemplate1", "JobCostAppTemplate1\JobCostAppTemplate1\JobCostAppTemplate1.csproj", "{B484EF6C-5719-4470-98DD-83DF130C633E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobCostAppTemplate1.Client", "JobCostAppTemplate1\JobCostAppTemplate1.Client\JobCostAppTemplate1.Client.csproj", "{EAE0F4B5-8753-4A70-B87E-C07542A55E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B484EF6C-5719-4470-98DD-83DF130C633E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B484EF6C-5719-4470-98DD-83DF130C633E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B484EF6C-5719-4470-98DD-83DF130C633E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B484EF6C-5719-4470-98DD-83DF130C633E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE0F4B5-8753-4A70-B87E-C07542A55E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE0F4B5-8753-4A70-B87E-C07542A55E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE0F4B5-8753-4A70-B87E-C07542A55E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE0F4B5-8753-4A70-B87E-C07542A55E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
